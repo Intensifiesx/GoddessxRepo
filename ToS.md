@@ -23,7 +23,6 @@ Please read these Terms of Service ("Terms") carefully, as they outline the rule
 ## 3. Privacy
 
 - Goddessx will log errors to help in debugging. Additionally, this information will not be used for any else.
-- We take user privacy seriously. For more details, please review our [Privacy Policy](#).
 
 ## 4. Changes to the Terms
 
